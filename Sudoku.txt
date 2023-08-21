@@ -4,7 +4,7 @@
     "packageName" : "",
     "adPriority": "Admob",
     "showApplovin" : "0",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "0",
     "InteractionCount" : 1,
     "AL_banner" : "1",
